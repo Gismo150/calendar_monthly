@@ -13,7 +13,7 @@
 
 #monthName:after {
 	content: " •";
-	color: #80ff00;
+	color: #ffffff;
 	font-weight: bold;
 }
 
@@ -48,7 +48,7 @@
 .square-content .today {
 	border: 1px solid #80ff00;
 	font-weight: normal;
-	color: #80ff00;
+	color: #5CB85C;
 }
 
 .square-content div {
